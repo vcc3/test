@@ -81,7 +81,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
-                        <h1 class="brand-heading">Cornejo</h1>
+                        
                         <p class="intro-text">Resume Web Page for 
                             <br>Victor Carlos Cornejo.</p>
                         <a href="#about" class="btn btn-circle page-scroll">
