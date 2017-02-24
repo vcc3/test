@@ -101,7 +101,7 @@
                      <h1>About Me</h1>
                 <br>
                   
-                      <p> </p>
+                      <p> As a current student at New Jerseys Institute of Technology, I am currently searching for opportunities within my field of both Computer Science and Web and Information Systems.  Since graduating High School back in 2012, I have been fascinated with the new wave of technology and programs that had arisen. The tech field of software and hardware is big and has many different sub fields within them that are of interest to me.  As of now I have worked in the coding portion along with some IT experience from past internships and jobs. For me it is important to understand the different fields and how they are all connected to one another. I try to get myself acquainted and experienced within these different branches that stem of the tech field by working in IT positions, Web development and application   development. My skills are still growing for every semester and every job brings new knowledge to me and I hope to keep it ever growing.</p>
                     
                     
                     
