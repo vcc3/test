@@ -70,7 +70,7 @@
                         <a class="page-scroll" href="#skills">Skills</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#contact">Contact</a>
+                        <a class="page-scroll" href="#portfolio">Portfolio</a>
                     </li>
                 </ul>
             </div>
@@ -215,12 +215,12 @@
         </div>
     </section>
    <!-- Contact Section ------------------------------------------------------------------------------>
-     <section id="contact" class="content-section text-center">
+     <section id="portfolio" class="content-section text-center">
         <div class="download-section">
             <div class="container">
                 <div class="col-lg-12  col-sm-12 ">
                          
-                       <h2>Contact Victor Carlos</h2>
+                       <h2> Victor Carlos Cornejo&#39;s Portfolio</h2>
                 
                 <br>
                 <br>
