@@ -228,7 +228,7 @@
                     <p> Need to contact me? Fill out the form below to send me an email! Phone number is optional.</p>
                      <form name="contactform" method="post" action="send_form_email.php">
  
-                          <table width="450px">
+                          <table width="400px">
                    
                             <tr>
                    
