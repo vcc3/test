@@ -25,7 +25,7 @@
     <link href ="css/grayscale.css" rel ="stylesheet">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!-- WARNING: Respond.js doesn''t work if you view the page via file:// -->
     <!--[if lt IE 9]>
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
@@ -97,7 +97,7 @@
      <section id="about" class="content-section text-center">
         <div class="download-section">
             <div class="container">
-                <div class="col-lg-8 col-lg-offset-2 col-sm-8 col-sm-offset-2">
+                <div class="col-lg-12 col-lg-offset-2 col-sm-12 col-sm-offset-2">
                      <h1>About Me</h1>
                 <br>
                   
@@ -114,30 +114,30 @@
     <section id="education" class="content-section text-center">
         <div class="download-section">
             <div class="container">
-                <div class="col-lg-8 col-lg-offset-2 col-sm-8 col-sm-offset-2">
+                <div class="col-lg-12 col-lg-offset-2 col-sm-12 col-sm-offset-2">
                     <h1>Education</h1>
-                     <hr> 
+                     
                    <div>
                       <img src ="img/wallkill.jpg" width = 120px height = 120px>
                       <p><b>Wallkill Valley Regional High School</b></p>
                       <p>Graduated: June 2012</p>
                       <p>10 Grumm Rd, Hamburg, NJ 07419</p>
                    </div>                                                
-                   <hr>
+                   
                    <div>
                     <img src ="img/sussex.jpg" width = 120px height = 120px>
                      <p><b>Sussex County Community College </b></p>
                      <p>Graduated: May 2015 -AS in Computer Science </p>
                      <p>1 College Hill Rd, Newton, NJ 07860</p> 
                    </div>
-                   <hr>               
+                                  
                    <div>
                      <img src ="img/njit.jpg" width = 120px height = 120px>
                      <p><b>New Jersey Institute of Technology</b></p>
                      <p> *Currently Attending*-Expected Grad Date: May 2018</p>
                      <p>323 Dr Martin Luther King Jr Blvd, Newark, NJ 07102</p>
                    </div> 
-                   <hr> 
+                   
                     
                     
                     
@@ -149,7 +149,7 @@
     <section id="work" class="content-section text-center">
         <div class="download-section">
             <div class="container">
-                <div class="col-lg-8 col-lg-offset-2 col-sm-8 col-sm-offset-2">
+                <div class="col-lg-12 col-lg-offset-2 col-sm-12 col-sm-offset-2">
                     <h1>Work  Experience</h1>
                   <p>PlanIT Networks, Blairstown NJ(July 2015-July 2016)</p>
                     <ul>
@@ -163,7 +163,7 @@
                       <li>	Created a website structure for a Cemetery association.</li>
                       <li>Met with client to discuss goals and deadlines.</li>
                       <li>Delivered final submission that met client&#39;s expectations.</li>
-                      <li>Website - http://delawarecemeterypa.com, Internship opportunity.</li>
+                      <li>Website - <a href ="http://delawarecemeterypa.com">Internship Opportunity at Deleware Cemetery.</a></li>
                     </ul> 
                   <p>Weis Markets Newton ,NJ (August 2012- August 2015</p>
                     <ul>
@@ -186,7 +186,7 @@
     <section id="skills" class="content-section text-center">
         <div class="download-section">
             <div class="container">
-                <div class="col-lg-8 col-lg-offset-2 col-sm-8 col-sm-offset-2">
+                <div class="col-lg-12 col-lg-offset-2 col-sm-12 col-sm-offset-2">
                          <h1>Skills & Abilities</h1>
                  <p>Programming languages worked in:</p>
                    <ul>
@@ -212,7 +212,7 @@
      <section id="contact" class="content-section text-center">
         <div class="download-section">
             <div class="container">
-                <div class="col-lg-8 col-lg-offset-2 col-sm-8 col-sm-offset-2">
+                <div class="col-lg-12 col-lg-offset-2 col-sm-12 col-sm-offset-2">
                          
                        <h2>Contact Victor Carlos</h2>
                 
