@@ -80,7 +80,7 @@
         <div class="intro-body">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-8 col-md-offset-2 col-sm-8 col-sm-offset-2">
+                    <div class="col-md-12  col-sm-12 ">
                         
                         <p class="intro-text">Resume Web Page for 
                             <br>Victor Carlos Cornejo.</p>
@@ -97,7 +97,7 @@
      <section id="about" class="content-section text-center">
         <div class="download-section">
             <div class="container">
-                <div class="col-lg-12 col-lg-offset-2 col-sm-12 col-sm-offset-2">
+                <div class="col-lg-12  col-sm-12 ">
                      <h1>About Me</h1>
                 <br>
                   
@@ -114,7 +114,7 @@
     <section id="education" class="content-section text-center">
         <div class="download-section">
             <div class="container">
-                <div class="col-lg-12 col-lg-offset-2 col-sm-12 col-sm-offset-2">
+                <div class="col-lg-12 col-sm-12 ">
                     <h1>Education</h1>
                      
                    <div>
@@ -142,6 +142,8 @@
                     
                     
                 </div>
+                <div class="col-lg-12 col-sm-12 ">
+
             </div>
         </div>
     </section>
@@ -149,7 +151,7 @@
     <section id="work" class="content-section text-center">
         <div class="download-section">
             <div class="container">
-                <div class="col-lg-12 col-lg-offset-2 col-sm-12 col-sm-offset-2">
+                <div class="col-lg-12  col-sm-12 ">
                     <h1>Work  Experience</h1>
                   <p>PlanIT Networks, Blairstown NJ(July 2015-July 2016)</p>
                     <ul>
@@ -186,7 +188,7 @@
     <section id="skills" class="content-section text-center">
         <div class="download-section">
             <div class="container">
-                <div class="col-lg-12 col-lg-offset-2 col-sm-12 col-sm-offset-2">
+                <div class="col-lg-12  col-sm-12 ">
                          <h1>Skills & Abilities</h1>
                  <p>Programming languages worked in:</p>
                    <ul>
@@ -212,7 +214,7 @@
      <section id="contact" class="content-section text-center">
         <div class="download-section">
             <div class="container">
-                <div class="col-lg-12 col-lg-offset-2 col-sm-12 col-sm-offset-2">
+                <div class="col-lg-12  col-sm-12 ">
                          
                        <h2>Contact Victor Carlos</h2>
                 
